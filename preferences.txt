@@ -1,0 +1,5 @@
+Favourite movie is unknown,
+Favourite series is Skam,
+Favourite food is cake,
+Favourite season is winter,
+Country to visit - Switzerland.
