@@ -1,1 +1,15 @@
-
+							
+							
+ENVIRONMENT		"iPhone 11, iOS 15.3.1"					
+ID	TITLE	STEPS	ACTUAL RESULT	EXPECTED RESULT	SEVERITY	PRIORITY	ATTACHMENTS
+ID1	At the open lesson screen swipe left leds forward instead of backward	"1. Open the lesson at the Homepage
+2. Swipe left"	Swipe left moves to the previous card	Swipe left moves to the next card in the lesson	LOW	P3	https://drive.google.com/file/d/10umcDfBBhrwhNlY_sqj_v2U4sicJntaf/view?usp=sharing
+ID2	"Section ""About"" at the CFD page contains description only in English"	"1. Open page CFD.
+2. Tap any item from the upper feed and scroll down for description"	"Description in the ""About' section of the CFD screen is written on English notwithstanding the choosen language"	"""About"" section is shown on language choosen by user"	LOW	P3	https://drive.google.com/file/d/1E2R1jfMV5eZYEDlt1CxSlCXn1QIgK25q/view?usp=sharing
+ID3	"Screen of the ""Learn how to predict trends"" goal has no button ""Leave"", only ""Continue"""	"1. Choose ""Learn how to predict trends"" goal
+2. Complete one of the daily goals (give one right answer)
+3. See the notification"	"No button ""Leave"" is available"	"There is a choice to leave or to continue, with 2 corresponding buttons"	LOW	P3	https://drive.google.com/file/d/1ceYl2EkaewtD4UgE_Oesl3Ur-TdZ4Cw8/view?usp=sharing
+ID4	At the CFD screen time gaps and real time under the diagram are mismatching	"1. Open CFD screen
+2. Check the time gaps and real time under the diagram"	"Real time and given time intervals are mismatching. When choosen 10 min changes, the real time show the changes of 10-4 mins."	The intervals for checking the market situation are corresponding the real time	LOW	P3	https://drive.google.com/file/d/1RyVh7CGyy6I0QMx4LfHfKRSGD6fexz9b/view?usp=sharing
+ID5	"Option ""Reminder"" leads to the settings of the device without activation of the reminder"	"1. Open Settings screen
+2. Switch on reminder"	Reminder activation leads to the settings of the device where there is no option to activate the reminder.	The activation of the reminder leads to the corresponding section of the settings. where the user can switch on reminder	LOW	P3	https://drive.google.com/file/d/13H86ttlkOws3qiCuaI0h4UxnHaj-04lP/view?usp=sharing
